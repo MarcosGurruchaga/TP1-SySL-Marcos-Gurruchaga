@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-
+// Marcos Gurruchaga - SySL TP1 K2002
 int main()
 {
     int c;
